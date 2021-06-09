@@ -42,3 +42,7 @@ There are four types of machine learning:
 
 - Association: This technique is a rule based ML technique which finds out some very useful relations between parameters of a large data set.
 
+### [Source code with output](https://github.com/Ria2810/Netflix-recommendation/blob/main/Edu_project_netflix_Copy1.ipynb)
+
+### Dataset: 
+[Netflix.csv](https://github.com/Ria2810/Netflix-recommendation/blob/main/netflix%20dataset.csv)
